@@ -1,0 +1,30 @@
+html {
+    background-color: #009999;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: #ffa86e;
+    text-align: center;
+}
+
+h3 {
+    color: #00cc66;
+
+}
+
+h4 {
+    color: #ffa86e;
+}
+
+hr {
+    color: red;
+    width: 50%;
+    align: left;
+    height: 2px;
+}
+
+.sauce {
+    color: #ffa86e;
+    text-align: center;
+}
