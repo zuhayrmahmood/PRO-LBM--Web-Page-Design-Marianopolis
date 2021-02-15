@@ -1,5 +1,5 @@
 html{
-    background-color: #99ccff;
+    background-color: #b3ffcc;
 }
 
 h1{
@@ -8,18 +8,20 @@ h1{
     font-size: 72px;
 }
 
+h2{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 36px;
+}
+
+.p-text{
+    margin-right: 66%;
+    font-size: 18px;
+}
+
 h3{
     font-family: 'Quicksand', sans-serif;
     text-align: center;
     font-size: 27px;
-}
-
-/* This is specifically for the links in index-a */
-.a-links{
-    font-family: 'Quicksand', sans-serif;
-    text-align: center;
-    font-size: 15px;
-    color: #250752;
 }
 
 /* For all links using this file */
@@ -31,3 +33,9 @@ a{
 
 }
 
+.h-links{
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    font-size: 15px;
+    color: #250752;
+}
