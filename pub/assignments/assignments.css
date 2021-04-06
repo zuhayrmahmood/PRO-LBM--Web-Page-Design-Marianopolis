@@ -22,6 +22,11 @@ h3{
     color: #250752;
 }
 
+table{
+    display: inline-block;
+    margin-left: 33px;
+}
+
 /* For all links using this file */
 a{
     font-family: 'Quicksand', sans-serif;
