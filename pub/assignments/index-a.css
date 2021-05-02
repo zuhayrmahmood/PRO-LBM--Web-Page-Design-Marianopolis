@@ -14,6 +14,24 @@ h3{
     font-size: 27px;
 }
 
+h4{
+    font-family: 'Quicksand', sans-serif;
+    text-align: right;
+    font-size: 18px;
+}
+
+h5{
+    font-family: 'Quicksand', sans-serif;
+    text-align: left;
+    font-size: 27px;
+}
+
+h6{
+    font-family: 'Quicksand', sans-serif;
+    text-align: left;
+    font-size: 20px;
+}
+
 /* This is specifically for the links in index-a */
 .a-links{
     font-family: 'Quicksand', sans-serif;
@@ -31,3 +49,33 @@ a{
 
 }
 
+.letter {
+    font-size: 76px;
+    align-items: center;
+}
+
+td, th, tr {
+    width: 135px;
+}
+
+table{
+    align-content: center;
+}
+
+/* The arab class just centers the tables and whatnot */
+.arab{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table-links{
+    font-family: 'Quicksand', sans-serif;
+    text-align: left;
+    font-size: 15px;
+    color: #250752;
+}
+
+.message {
+    font-size: 25px;
+    align-items: center;
+}
